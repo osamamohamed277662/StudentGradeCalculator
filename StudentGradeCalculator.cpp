@@ -22,5 +22,7 @@ int main()
     cout << "Grade 3: " << grade3 << endl;
     cout << "Average: " << average << endl;
 
+    cout << "git force Practice" << endl;
+
     return 0;
 }
